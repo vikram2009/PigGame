@@ -69,5 +69,5 @@ btnhold.addEventListener('click', function(){
 })
 
 document.querySelector('.btn--new').onclick = function (){
-    location.href = 'http://localhost:5500/PIG%20GAME/';
+    location.href = 'http://piggame.tk';
 }
